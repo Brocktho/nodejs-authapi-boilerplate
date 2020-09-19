@@ -1,0 +1,20 @@
+/Users/kartikeysingh/Desktop/Projects/nodejs/template
+├── index.js
+├── models
+|  └── User.js
+├── package-lock.json
+├── package.json
+├── readme.md
+├── routes
+|  ├── admin
+|  ├── auth
+|  └── protected
+└── utils
+   ├── checkAuth.js
+   ├── comparePass.js
+   ├── db.js
+   └── hashPass.js
+
+directory: 478 file: 9
+
+ignored: directory (1), file (2)
