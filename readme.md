@@ -38,6 +38,11 @@ http://localhost:PORT/admin
 ```
 
 ### `Run`
+Install dependencies in root
+
+```sh
+npm install 
+````
 
 Run in root
 
